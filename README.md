@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Visualizing the app
 
+![Gif of the app](todoapp.gif)
+
 ![Screenshot of the app](todoapp.png)
 
 
